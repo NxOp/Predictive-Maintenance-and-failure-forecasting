@@ -28,7 +28,7 @@ See `requirements.txt` for dependencies.
 ## Usage
 ```bash
 # Clone the repository
-https://github.com/NxOp/Predictive-Maintenance-and-failure-forecasting/
+git clone https://github.com/NxOp/Predictive-Maintenance-and-failure-forecasting/
 
 # Install dependencies
 pip install -r requirements.txt
