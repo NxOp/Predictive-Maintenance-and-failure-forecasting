@@ -1,0 +1,19 @@
+aircraft-predictive-maintenance/
+├── data/
+│   ├── raw/                  # Raw datasets from Kaggle
+│   ├── processed/            # Cleaned and preprocessed data
+│   └── README.md             # Data documentation
+├── notebooks/
+│   ├── 01_exploratory_analysis.ipynb
+│   └── 02_model_development.ipynb
+├── src/
+│   ├── __init__.py
+│   ├── data_processing.py    # Data preprocessing functions
+│   ├── feature_engineering.py # Feature creation and selection
+│   ├── model.py              # Model implementation
+│   └── evaluation.py         # Model evaluation metrics
+├── models/                   # Saved model files
+├── results/                  # Figures and results
+├── requirements.txt          # Dependencies
+├── README.md                 # Project documentation
+└── main.py                   # Main script to run the pipeline
